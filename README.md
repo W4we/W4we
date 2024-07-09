@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wilson João</h1>
-<h3 align="center">A passionate frontend developer from Angola</h3>
+<h3 align="center">A passionate full stack developer from Angola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w4we&label=Profile%20views&color=0e75b6&style=flat" alt="w4we" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w4we" alt="w4we" /></a> </p>
 
-- 🌱 I’m currently learning **Software Enginneer**
+- 🌱 I’m currently learning **Software Developer**
 
 - 👯 I’m looking to collaborate on **Cloud native Projects**
 
